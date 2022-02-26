@@ -11,6 +11,7 @@ font-family: 'Merriweather', serif;
 body{
 height: 2000px;
 background: #fff;
+scroll-behavior:smooth;
 }
 .nav{
 position:fixed ;
