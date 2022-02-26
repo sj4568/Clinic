@@ -55,7 +55,7 @@ text-decoration:none ;
 .home{
 width:100% ;
 height:100vh ;
-background:url("/bg.jpeg") ;
+background:url("bg.jpeg") ;
 background-size: cover;
 }
 .home .text{
@@ -227,7 +227,7 @@ width: 50%;
 text-align:center ;
 }
 .card:hover{
-transform:scale(1.2);
+transform:scale(1.1);
 transition:1s;
 } 
 .service{
