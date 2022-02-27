@@ -312,6 +312,9 @@ border-bottom: 2px solid #fff;
 margin-top:10px;
 padding-top: 10px;
 }
+.book .container .form input:focus{
+outline:none ;
+}
 .book .container .form input::placeholder{
 color:#fff;
 
