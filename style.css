@@ -17,6 +17,8 @@ overflow-y: scroll;
 }
 html{
 scroll-bihavior:smooth;
+scroll-bihavior:smooth;
+overflow-y: scroll;
 
 }
 .nav{
